@@ -14,5 +14,5 @@ Below are the list of permissions the shortcuts will ask for when run and why
 1. AddToClipboard will ask for permission to save a file. This file is being used to store the history.
 2. AddToClipboard will ask for permission to delete file when the history exceeds the limit set. This is required to clear history.
 3. GetFromClipboard will ask for permission to access clipboard. This is for copying the chosen history item to clipboard.
-4. The insert-to-clipboard.command runs the AddToClipboard shortcut in a loop with a 2 second sleep timer. This is to allow adding to history seamlessly. You can choose to skip using insert-to-clipboard.command and assign to keyboard shortcut to AddToClipboard instead to add items on demand manually.
+4. The insert-to-clipboard.command runs the AddToClipboard shortcut in a loop with a 2 second sleep timer. This is to allow adding to history seamlessly. You can choose to skip using insert-to-clipboard.command and assign a keyboard shortcut to AddToClipboard instead, to add items on demand.
 5. It is best to select Always Allow for all permissions to avoid additional input each time the functionality is used.
