@@ -21,4 +21,5 @@ Below are the list of permissions the shortcuts will ask for when run and why
 1. Run insert-to-clipboard.command
 2. Hit the keyboard shortcut in use for GetFromClipboard to view history. Select an item to copy to clipboard.
 3. Sample Screenshot
+
 ![img.png](images/sample.png)
