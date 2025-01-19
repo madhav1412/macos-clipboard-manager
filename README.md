@@ -4,7 +4,7 @@ Clipboard manager for macOS using [Shortcuts](https://apps.apple.com/us/app/shor
 # Setup Instructions
 1. Import both shortcuts into the shortcuts app and complete the initial setup as directed. (Download the .shortcut files and double click them to import)
 2. Save insert-to-clipboard.command. Open terminal in directory where this file is saved and run the following command. ```chmod 755 insert-to-clipboard.command```
-3. Assign a keyboard shortcut for running the GetFromClipboard [Check Run a shortcut from a keyboard shortcut in this guide from Apple](https://support.apple.com/guide/shortcuts-mac/launch-a-shortcut-from-another-app-apd163eb9f95/mac).
+3. Assign a keyboard shortcut for running the GetFromClipboard shortcut [Check Run a shortcut from a keyboard shortcut in this guide from Apple](https://support.apple.com/guide/shortcuts-mac/launch-a-shortcut-from-another-app-apd163eb9f95/mac).
 4. Check Allow Deleting Without Confirmation in Shortcuts App settings (Required for clearing history. If not granted you will prompted to clear the history each time)
 ![img.png](images/permissions.png)
 5. For the first time each shortcut is run it will ask for permissions. Click on Always Allow.
