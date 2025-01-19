@@ -1,6 +1,5 @@
 # macos-clipboard-manager
-Clipboard manager for macOS using [Shortcuts](https://apps.apple.com/us/app/shortcuts/id1462947752)
-macOS lacks the inbuilt clipboard manager Windows has (Windows Key + V). Existing apps for adding this to macOS require users open the app each time they want to store clipboard history. The solution makes managing clipboard seamless by using two shortcuts and a shell script combination. It does not require installing third party apps.
+Clipboard manager for macOS using [Shortcuts](https://apps.apple.com/us/app/shortcuts/id1462947752). macOS lacks the inbuilt clipboard manager Windows has (Windows Key + V). Existing apps for adding this to macOS require users open the app each time they want to store clipboard history. The solution makes managing clipboard seamless by using two shortcuts and a shell script combination. It does not require installing third party apps.
 
 # Setup Instructions
 1. Import both shortcuts into the shortcuts app and complete the initial setup as directed. (Download the .shortcut files and double click them to import)
